@@ -1,0 +1,3 @@
+https://senior.ua/articles/mnogopotochnost-v-java-lekciya-5-atomarnye-peremennye-i-mnogopotochnye-kollekcii
+
+Многопоточность в Java. Лекция 5: атомарные переменные и многопоточные коллекции
